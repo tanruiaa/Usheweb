@@ -1,0 +1,8 @@
+{
+    "name": "usheweb/analysis",
+    "description": "Search and retrieve Chinese word segmentation",
+    "type": "project",
+    "require": {},
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
