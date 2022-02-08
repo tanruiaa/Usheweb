@@ -1,5 +1,5 @@
 {
-    "name": "usheweb/analysis",
+    "name": "usheweb/zwanalysis",
     "description": "Search and retrieve Chinese word segmentation",
     "type": "project",
     "require": {},
